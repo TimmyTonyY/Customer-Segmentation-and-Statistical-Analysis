@@ -29,7 +29,7 @@ Discover how to segment your customers effectively to improve marketing strategi
 1. Clone the repository:
 git clone https://github.com/TimmyTonyY/Customer-Segmentation-and-Statistical-Analysis.git
 2. Navigate to the project directory:
- cd Customer Segmentation and Statistical Analysis
+ cd [Customer Segmentation and Statistical Analysis](https://github.com/TimmyTonyY/Customer-Segmentation-and-Statistical-Analysis/blob/main/Mall%20Customer%20Segmentation%20and%20Statistics%20Analysis.ipynb)
 3. Install the required dependencies:
 *	pip install 
 *	pandas 
